@@ -18,4 +18,10 @@ K
 F https://www.infineon.com/dgdl/Infineon-TLE9012DQU-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7e7124d1017f0c3d27c75737
 $ENDCMP
 #
+$CMP CDSOT23-T05C
+D ESD Suppressors / TVS Diodes TVS Diode Array 5VOLT
+K
+F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-T03_T36C.pdf
+$ENDCMP
+#
 #End Doc Library
