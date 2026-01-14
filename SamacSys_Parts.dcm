@@ -24,4 +24,10 @@ K
 F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-T03_T36C.pdf
 $ENDCMP
 #
+$CMP BQ769142PFBR
+D Battery Management 3-s to 14-s high-accuracy battery monitor and protector for Li-ion, Li-polymer and LiFePO4 battery 48-TQFP -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/bq769142.pdf?ts=1613711822936&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DBQ769142PFBR
+$ENDCMP
+#
 #End Doc Library
