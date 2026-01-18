@@ -30,10 +30,17 @@ K
 F https://www.ti.com/lit/ds/symlink/bq769142.pdf?ts=1613711822936&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DBQ769142PFBR
 $ENDCMP
 #
+<<<<<<< HEAD
 $CMP NXV08V110DB1
 D ThreePhase Inverter Bridge for Variable Speed Motor Drive; RC Snubber for Low EMI; Current Sensing and Temperature Sensing; Electrically Isolated DBC Substrate for Low Thermal Resistance; Compact Design for Low Total Module Resistance; Module Serialization for Full Traceability; AEC Qualified  AQG324; PPAP Capable; This Device is Pbfree, RoHS and UL94 V-0 Compliant
 K
 F https://www.onsemi.com/pub/Collateral/NXV08V110DB1-D.PDF
+=======
+$CMP CRCW04020000Z0TDHP
+D Standard Thick Film Chip Resistors value 0000 ohm.
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+>>>>>>> 59f51d4761615dc6a4a0cec83819193a0b90a582
 $ENDCMP
 #
 #End Doc Library
