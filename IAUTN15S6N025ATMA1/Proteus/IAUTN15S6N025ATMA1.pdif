@@ -1,0 +1,174 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "IAUTN15S6N025ATMA1"
+   (description "MOSFETs 150 V, N-Ch, 2.5 mOhms max, Automotive MOSFET, TOLL (10x12)")
+   (family "TRX")
+   (package "BTH500151LUAAUMA1")
+   (attribute "Datasheet Link" "https://www.mouser.co.uk/datasheet/3/70/1/Infineon_IAUTN15S6N025_DataSheet_v01_00_EN.pdf")
+   (attribute "Geometry.Height" "2.4mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "IAUTN15S6N025ATMA1")
+   (gate
+    (symbol "IAUTN15S6N025ATMA1")
+    (pin "G" 1 PS)
+    (pin "S_1" 2 PS)
+    (pin "S_2" 3 PS)
+    (pin "S_3" 4 PS)
+    (pin "S_4" 5 PS)
+    (pin "S_5" 6 PS)
+    (pin "S_6" 7 PS)
+    (pin "S_7" 8 PS)
+    (pin "D_1" 9 PS)
+    (pin "D_2" 10 PS)
+    (pin "D_3" 11 PS)
+    (pin "S_8" 12 PS)
+   )
+  )
+  (symbol "IAUTN15S6N025ATMA1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BTH500151LUAAUMA1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.95 5.227)
+      (pt 4.95 5.227)
+      (pt 4.95 -5.148)
+      (pt -4.95 -5.148)
+      (pt -4.95 5.227))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.05 7.65)
+      (pt 6.05 7.65)
+      (pt 6.05 -7.65)
+      (pt -6.05 -7.65)
+      (pt -6.05 7.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.2 -7.16)
+      (arc (pt -4.200 -7.160) (pt -4.250 -7.160) (pt -4.150 -7.060) (start 180.0) (sweep -90.0))
+      (pt -4.2 -7.06)
+      (arc (pt -4.200 -7.060) (pt -4.250 -7.160) (pt -4.150 -7.060) (start 180.0) (sweep 90.0))
+      (pt -4.2 -7.16))))
+   (leg 1 (pt -4.200 -5.250) (padstack 1))
+   (leg 2 (pt -3.000 -5.650) (padstack 0))
+   (leg 3 (pt -1.800 -5.650) (padstack 0))
+   (leg 4 (pt -0.600 -5.650) (padstack 0))
+   (leg 5 (pt 0.600 -5.650) (padstack 0))
+   (leg 6 (pt 1.800 -5.650) (padstack 0))
+   (leg 7 (pt 3.000 -5.650) (padstack 0))
+   (leg 8 (pt 4.200 -5.650) (padstack 0))
+   (leg 9 (pt 0.000 5.900) (padstack 9))
+   (leg 10 (pt 0.000 3.750) (padstack 10))
+   (leg 11 (pt 0.000 0.500) (padstack 11))
+   (leg 12 (pt 0.600 -4.250) (padstack 12))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 2.000 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 2.800 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 1.500 10.100 0 0 0.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 2.800 8.700 0 0 0.000))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 3.700 9.700 0 0 0.000))
+   )
+   (padstack 12
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 8.000 0 0 0.000))
+   )
+   (model "IAUTN15S6N025ATMA1.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

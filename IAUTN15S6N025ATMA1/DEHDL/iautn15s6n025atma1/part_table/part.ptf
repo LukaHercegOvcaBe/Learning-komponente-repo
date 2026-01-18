@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IAUTN15S6N025ATMA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IAUTN15S6N025ATMA1" (!) = "", "BTH500151LUAAUMA1", "Other", "", "", "MOSFETs 150 V, N-Ch, 2.5 mOhms max, Automotive MOSFET, TOLL (10x12)", "https://www.mouser.co.uk/datasheet/3/70/1/Infineon_IAUTN15S6N025_DataSheet_v01_00_EN.pdf", "2.4 mm"
+END_PART
+
+END.

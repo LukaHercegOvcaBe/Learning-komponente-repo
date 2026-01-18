@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IAUTN15S6N025ATMA1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-01-10-17:55:43)
+    (mountForm default
+        (footprintRef "BTH500151LUAAUMA1")
+        (spec "System")
+    )
+)

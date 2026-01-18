@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IAUTN15S6N025ATMA1
+D MOSFETs 150 V, N-Ch, 2.5 mOhms max, Automotive MOSFET, TOLL (10x12)
+K
+F https://www.mouser.co.uk/datasheet/3/70/1/Infineon_IAUTN15S6N025_DataSheet_v01_00_EN.pdf
+$ENDCMP
+#
+#End Doc Library

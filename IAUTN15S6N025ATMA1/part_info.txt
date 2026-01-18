@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IAUTN15S6N025ATMA1
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=12
+Version=1.5
+Released=2025-12-23 15:52:38
+Downloaded=2026-01-18 19:30:15
+3D=Y

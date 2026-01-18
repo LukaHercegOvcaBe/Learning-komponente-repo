@@ -1,0 +1,16 @@
+.IAUTN15S6N025ATMA1 :1 ;MOSFETs 150 V, N-Ch, 2.5 mOhms max, Automotive MOSFET, TOLL (10x12)
+BTH500151LUAAUMA1
+*STM Q
+*NGS
+*PLB 1="G" 2="S_1" 3="S_2" 4="S_3" 5="S_4" 6="S_5" 7="S_6" 8="S_7" 9="D_1" 10="D_2" 11="D_3" 12="S_8"
+*MXP 12
+*DFN IAUTN15S6N025ATMA1
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IAUTN15S6N025ATMA1)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/3/70/1/Infineon_IAUTN15S6N025_DataSheet_v01_00_EN.pdf)
+~!Height (2.4mm)
+~!3D_Model (IAUTN15S6N025ATMA1)
+IAUTN15S6N025ATMA1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 
